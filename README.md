@@ -3,6 +3,27 @@ Semester 3 projects, assignments, and programming practice work.
 
 ## Date: 11-09-2026
 **Today's Work:**
+- Completed Session 5 (Array Operations, 2D Arrays & Custom Objects) problems on `feature/session_5`.
+- Solved 5 Class Problems in `array.class_problems`:
+  - `HackathonScoreCurveBooster.java`: Modify array elements in place by adding bonus points.
+  - `DuplicateTeamNameFinder.java`: Scan array for duplicate strings using nested loops.
+  - `TopThreePodiumFinder.java`: Track top 3 podium scores in a single pass without sorting.
+  - `HackathonSeatingGridOptimizer.java`: Analyze 2D jagged seating grid and classify rows based on average threshold.
+  - `Candidate.java`: Encapsulate candidate data, evaluate overloaded eligibility checks, and rank shortlisted candidates via Comparable.
+- Solved 5 Assignment Problems in `array.assigment_problems`:
+  - `FantasyTeamScoreMultiplier.java`: Boost captain and vice-captain scores directly in place by reference.
+  - `DuplicatePlayerPickChecker.java`: Detect repeated player picks in lineup using nested-loop pairwise comparison.
+  - `TopPerformerTracker.java`: Find minimum, maximum, and spread in single pass without sorting.
+  - `MatchDayGridAnalyzer.java`: Reusable rowAverage helper to classify match overs into Power Surge vs. Normal.
+  - `Player.java`: Overloaded draftability rules, natural sorting via Comparable<Player>, and auto-draft ranking string output.
+- Compiled and verified all 10 Java solutions against test cases.
+**Next Session Plan:**
+- Proceed to Session 6 problems once uploaded and maintain clean branch isolation.
+**Issues Faced:**
+- None. All 10 solutions compiled cleanly and verified with expected outputs.
+
+## Date: 11-09-2026
+**Today's Work:**
 - Completed Session 4 (Array / Functions & Arrays) problems on `feature/session_4`.
 - Solved 5 Class Problems in `array.class_problems`:
   - `TwoSum.java`: Find pair of indices adding up to target using nested loops.
