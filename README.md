@@ -3,6 +3,27 @@ Semester 3 projects, assignments, and programming practice work.
 
 ## Date: 11-09-2026
 **Today's Work:**
+- Completed Session 4 (Array / Functions & Arrays) problems on `feature/session_4`.
+- Solved 5 Class Problems in `array.class_problems`:
+  - `TwoSum.java`: Find pair of indices adding up to target using nested loops.
+  - `BestTimeToBuyAndSellStock.java`: Compute maximum profit in a single pass tracking minimum price.
+  - `ContainsDuplicate.java`: Check for duplicate elements in array using pairwise comparison.
+  - `MergeTwoSortedArrays.java`: Merge two sorted integer arrays into one sorted array using two pointers.
+  - `RotateArray.java`: Rotate array right by k steps using modulo arithmetic and new position mapping.
+- Solved 5 Assignment Problems in `array.assigment_problems`:
+  - `ProductOfArrayExceptSelf.java`: Compute product except self without division using forward and backward passes.
+  - `MaximumSubarray.java`: Find contiguous subarray with maximum sum using Kadane's algorithm.
+  - `ThreeSum.java`: Find all unique triplets summing to zero using sorting and two-pointer scan with duplicate avoidance.
+  - `SubarraySumEqualsK.java`: Count total contiguous subarrays summing to k using prefix sums and frequency map.
+  - `FindMinimumInRotatedSortedArray.java`: Find minimum element in rotated sorted array in O(log n) using binary search.
+- Compiled and verified all 10 Java solutions against test cases.
+**Next Session Plan:**
+- Proceed to Session 5 problems once uploaded and maintain clean branch isolation.
+**Issues Faced:**
+- None. All 10 solutions compiled cleanly and verified with expected outputs.
+
+## Date: 11-09-2026
+**Today's Work:**
 - Completed Session 3 (OOP / Classes and Objects) problems on `feature/session_3`.
 - Solved 5 Class Problems in `object_oriented_programming.class_problems`:
   - `Student.java`: Define student record class with name and marks, create object and set fields directly.
