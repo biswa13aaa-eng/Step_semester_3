@@ -3,6 +3,27 @@ Semester 3 projects, assignments, and programming practice work.
 
 ## Date: 11-09-2026
 **Today's Work:**
+- Completed Session 3 (OOP / Classes and Objects) problems on `feature/session_3`.
+- Solved 5 Class Problems in `object_oriented_programming.class_problems`:
+  - `Student.java`: Define student record class with name and marks, create object and set fields directly.
+  - `HostelRoom.java`: Demonstrate independent state across multiple room objects without interference.
+  - `LibraryCard.java`: Demonstrate Java's default field values (null, 0, false) upon object instantiation.
+  - `Course.java`: Implement parameterized constructor initializing fields using `this`.
+  - `Applicant.java`: Track total object count using a static field incremented within constructor.
+- Solved 5 Assignment Problems in `object_oriented_programming.assigment_problems`:
+  - `Book.java`: Define book record class with title and price, instantiate and set fields directly.
+  - `ExamHall.java`: Demonstrate separate occupancy counts across multiple exam hall objects.
+  - `Employee.java`: Verify default values for reference, primitive numeric, and boolean fields.
+  - `Product.java`: Implement parameterized constructor for product ID and name using `this`.
+  - `Order.java`: Count total orders created across session using a class-level static counter.
+- Compiled and verified all 10 Java solutions against test cases.
+**Next Session Plan:**
+- Proceed to Session 4 problems once uploaded and maintain branch isolation.
+**Issues Faced:**
+- None. All programs compiled cleanly and verified with expected outputs.
+
+## Date: 11-09-2026
+**Today's Work:**
 - Completed Session 2 (String) problems on `feature/session_2`.
 - Solved 5 Class Problems in `string.class_problems`:
   - `VowelConsonantCounter.java`: Count vowels and consonants in a string ignoring spaces.
