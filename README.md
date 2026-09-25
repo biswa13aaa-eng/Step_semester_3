@@ -1,6 +1,28 @@
 # Step_semester_3
 Semester 3 projects, assignments, and programming practice work.
 
+## Date: 25-09-2026
+**Today's Work:**
+- Completed Session 6 (OOP / Encapsulation, Reference Management & Constructors) problems on `feature/session_6`.
+- Solved 5 Class Problems in `object_oriented_programming.class_problems`:
+  - `PlacementRecord.java`: Structured placement records using OOP and object array traversal.
+  - `MessWallet.java`: Encapsulation with validation for negative opening balance, top-up, and overdraft protection.
+  - `Course.java`: Constructor overloading and chaining via `this(...)` for theory and lab course configurations.
+  - `IdCard.java`: Demonstrating reference aliasing versus separate object allocation using `==` equality checks.
+  - `Student.java`: Shared static attributes (`collegeName`) and class-level counter (`studentCount`) with static accessor.
+- Solved 5 Assignment Problems in `object_oriented_programming.assigment_problems`:
+  - `BookInventory.java`: Multi-field book inventory management using custom object arrays.
+  - `PayrollAccount.java`: Strict encapsulation of salary and bonus with percentage tax deduction rules.
+  - `EmployeeProfile.java`: Constructor chaining for intern vs. permanent employee profiles.
+  - `HallTicket.java`: Object reference mutation demonstration and reference comparison with `==`.
+  - `CompanyEmployee.java`: Static company name and employee counter accessed through class name.
+- Handled class name collision between M3 and M5 by defining distinct descriptive classes (`EmployeeProfile` and `CompanyEmployee`).
+- Compiled and verified all 10 Java solutions against test cases.
+**Next Session Plan:**
+- Proceed to Session 7 problems once uploaded and maintain clean branch isolation.
+**Issues Faced:**
+- Addressed duplicate class name `Employee` between M3 and M5 in assignment problems by adopting clear, unique class names.
+
 ## Date: 11-09-2026
 **Today's Work:**
 - Completed Session 5 (Array Operations, 2D Arrays & Custom Objects) problems on `feature/session_5`.
