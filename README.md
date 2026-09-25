@@ -3,6 +3,27 @@ Semester 3 projects, assignments, and programming practice work.
 
 ## Date: 25-09-2026
 **Today's Work:**
+- Completed Session 7 (OOP / Encapsulation & Access Control) problems on `feature/session_7`.
+- Solved 5 Class Problems in `encapsulation.class_problems`:
+  - `PiggyBank.java`: Private savings with safe deposit, overdraft rejection on withdrawal, and final ID.
+  - `Scorecard.java`: Private answer recording array exposing only computed score without exposing raw data.
+  - `NameTag.java`: Immutable name tag class splitting full name once and returning formatted nickname.
+  - `Locker.java`: Write-only combination code requiring current code verification before mutation.
+  - `AttendanceSheet.java`: Internal array storing present students without duplicates and providing query methods.
+- Solved 5 Assignment Problems in `encapsulation.assigment_problems`:
+  - `Character.java`: Health bar clamped strictly between 0 and final maxHealth through takeDamage and heal.
+  - `Playlist.java`: Defensive copying of internal song array to prevent external mutation.
+  - `PasswordChecker.java`: Write-only password storage returning only strength ratings without exposing password text.
+  - `TrafficLight.java`: Strict color cycle (RED -> GREEN -> YELLOW -> RED) through next() with final identifier.
+  - `Cart.java`: Internal price storage exposing on-demand computed total and item count without exposing array.
+- Compiled and verified all 10 Java solutions against test cases.
+**Next Session Plan:**
+- Proceed to Session 8 problems once uploaded and maintain clean branch isolation.
+**Issues Faced:**
+- None. All 10 solutions compiled cleanly and verified with expected outputs.
+
+## Date: 25-09-2026
+**Today's Work:**
 - Completed Session 6 (OOP / Encapsulation, Reference Management & Constructors) problems on `feature/session_6`.
 - Solved 5 Class Problems in `object_oriented_programming.class_problems`:
   - `PlacementRecord.java`: Structured placement records using OOP and object array traversal.
