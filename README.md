@@ -3,6 +3,27 @@ Semester 3 projects, assignments, and programming practice work.
 
 ## Date: 03-10-2026
 **Today's Work:**
+- Completed Session 9 (OOP / Abstraction: Abstract Classes & Interfaces) problems on `feature/session_9`.
+- Solved 5 Class Problems in `abstraction.class_problems`:
+  - `GardenPlotAreaReport.java`: Abstract `Plot` class with shape subclasses (`CirclePlot`, `RectanglePlot`, `TrianglePlot`) and polymorphic area calculation.
+  - `WeeklyStaffPay.java`: Abstract `Staff` hierarchy (`HourlyStaff`, `SalariedStaff`, `CommissionStaff`) calculating weekly pay polymorphically.
+  - `LibraryLateFineCounter.java`: Abstract `BorrowItem` hierarchy (`Book`, `Media`, `Periodical`) calculating late return fines based on specific overdue rules.
+  - `ElectricityConnectionBilling.java`: Abstract `Connection` hierarchy (`DomesticConnection`, `CommercialConnection`, `IndustrialConnection`) with tiered unit tariffs and fixed fees.
+  - `TravelBookingWithCommonFee.java`: Abstract `TravelTicket` hierarchy (`BusTicket`, `TrainTicket`, `FlightTicket`) combining non-abstract common booking fee and abstract travel charges.
+- Solved 5 Assignment Problems in `abstraction.assigment_problems`:
+  - `MovieTicketCounter.java`: Abstract `MovieTicket` base (`RegularTicket`, `PremiumTicket`, `ReclinerTicket`) calculating dynamic ticket pricing based on slot and snack addons.
+  - `ParcelShippingDesk.java`: Abstract `DeliveryParcel` hierarchy implementing optional `Insurable` interface for express and fragile parcels.
+  - `CollegeFeeCounter.java`: Abstract `StudentEnrollment` hierarchy implementing optional `BusUser` interface for day scholar and scholarship student transport fees.
+  - `CityCabFareMeter.java`: Abstract `TaxiRide` hierarchy implementing optional `NightServiceable` interface for sedan and SUV night fares.
+  - `HomeApplianceEnergyReport.java`: Abstract `HouseholdAppliance` hierarchy implementing optional `SaverModeCapable` interface for AC and washer energy reductions.
+- Compiled and verified all 10 Java solutions against test cases.
+**Next Session Plan:**
+- Proceed to Session 10 problems once uploaded and maintain clean branch isolation.
+**Issues Faced:**
+- None. All 10 solutions compiled cleanly and verified with expected outputs.
+
+## Date: 03-10-2026
+**Today's Work:**
 - Completed Session 8 (OOP / Inheritance & Dynamic Method Dispatch) problems on `feature/session_8`.
 - Solved 5 Class Problems in `inheritance.class_problems`:
   - `PaymentFeeCalculator.java`: Payment hierarchy (Card, Wallet, BankTransfer) with polymorphic fee calculation.
