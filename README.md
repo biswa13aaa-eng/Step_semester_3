@@ -1,6 +1,27 @@
 # Step_semester_3
 Semester 3 projects, assignments, and programming practice work.
 
+## Date: 03-10-2026
+**Today's Work:**
+- Completed Session 8 (OOP / Inheritance & Dynamic Method Dispatch) problems on `feature/session_8`.
+- Solved 5 Class Problems in `inheritance.class_problems`:
+  - `PaymentFeeCalculator.java`: Payment hierarchy (Card, Wallet, BankTransfer) with polymorphic fee calculation.
+  - `LibraryDueDateCalculator.java`: Library item hierarchy (Book, DVD, Magazine) with item-specific loan durations.
+  - `DeliveryFeeCalculator.java`: Delivery service hierarchy (Standard, Express, International) with distance and weight pricing rules.
+  - `ExamQuestionGrader.java`: Question evaluation hierarchy (MCQ, True/False, Essay) with keyword matching and partial scoring.
+  - `TransportFareCalculator.java`: Public transit hierarchy (Bus, Train, Metro) with distance-based pricing and peak hour multipliers.
+- Solved 5 Assignment Problems in `inheritance.assigment_problems`:
+  - `CanteenBillingCounter.java`: Customer hierarchy (Student, Staff, Guest) calculating final amounts with discounts and surcharges.
+  - `CampusParkingCalculator.java`: Vehicle hierarchy (Bike, Car, Truck) with tiered hourly parking rates.
+  - `HostelElectricityBill.java`: Room hierarchy (Single, Shared, AC) calculating unit costs, split bills, and fixed charges.
+  - `FestivalBonusCalculator.java`: Employee hierarchy (Full-Time, Part-Time, Intern) computing bonuses uniformly via dynamic dispatch.
+  - `StreamingPlanRenewalReminder.java`: Subscription plan hierarchy (Basic, Standard, Premium) computing calendar renewal dates.
+- Compiled and verified all 10 Java solutions against test cases.
+**Next Session Plan:**
+- Proceed to Session 9 problems once uploaded and maintain clean branch isolation.
+**Issues Faced:**
+- None. All 10 solutions compiled cleanly and verified with expected outputs.
+
 ## Date: 25-09-2026
 **Today's Work:**
 - Completed Session 7 (OOP / Encapsulation & Access Control) problems on `feature/session_7`.
